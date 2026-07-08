@@ -32,9 +32,9 @@ Este projeto automatiza uma rotina operacional que anteriormente era realizada m
 
 fulltrack-report-automation
 
--src
-  -fulltrack_bot.py
--README.md
--requirements.txt
--.gitignore
--.env.example
+- Src
+  - fulltrack_bot.py
+- README.md
+- requirements.txt
+- .gitignore
+- .env.example
