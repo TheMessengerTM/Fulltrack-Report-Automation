@@ -1,0 +1,4 @@
+playwright
+pyautogui
+cryptography
+python-dotenv
