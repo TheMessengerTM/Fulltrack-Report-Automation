@@ -31,11 +31,10 @@ Este projeto automatiza uma rotina operacional que anteriormente era realizada m
 ## 📂 Estrutura do projeto
 
 fulltrack-report-automation
-│
-├── src
-│ └── fulltrack_bot.py
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── .env.example
+
+-src
+  -fulltrack_bot.py
+-README.md
+-requirements.txt
+-.gitignore
+-.env.example
