@@ -19,8 +19,6 @@ usuario = os.getenv("FULLTRACK_USER")
 senha = os.getenv("FULLTRACK_PASSWORD")
 url = os.getenv("FULLTRACK_URL")
 
-print(usuario)
-print(url)
 # pasta_download = fr"C:\Users\guilherme.henrique\OneDrive - 40205 - ASTERSEG ELETRONICA LTDA\Qualidade - Documentos\RESTRITO\11 - BASE DE DADOS\01 - RONDAS\02 - FULLTRACK"
 pasta_download = os.path.join(PATH_CODIGO,"AmbDesenvolvi")
 temp = r"C:\Temp"
